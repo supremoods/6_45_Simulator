@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Lotto 6/45 Simulator</string>
+    <string name="draw">Draw</string>
+    <string name="bet">Bet</string>
+    <string name="minimum_bet_10_00">Minimum Bet ₱ 10.00</string>
+    <string name="_10_00">₱ 10.00</string>
+    <string name="wallet_balance">Wallet Balance</string>
+
+    <string-array name="multipliers">
+        <item>x1</item>
+        <item>x2</item>
+        <item>x3</item>
+        <item>x4</item>
+        <item>x5</item>
+        <item>x6</item>
+        <item>x7</item>
+        <item>x8</item>
+        <item>x9</item>
+        <item>x10</item>
+    </string-array>
+</resources>
